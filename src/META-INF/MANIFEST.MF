@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: datanucleus-api-jdo-3.2.6.jar datanucleus-core-3.2.10.jar 
+ datanucleus-rdbms-3.2.9.jar geotiff-jai.jar jai_codec.jar jai_core.ja
+ r jai_imageio.jar spark-1.5.1-yarn-shuffle.jar spark-assembly-1.5.1-h
+ adoop2.6.0.jar spark-examples-1.5.1-hadoop2.6.0.jar
+Main-Class: ivt.aos.Main
+

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="CreateSequenceFileInt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreateSequenceFileInt_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CreateSequenceFileInt.jar">
+        <element id="module-output" name="CreateSequenceFileInt" />
+        <element id="dir-copy" path="$PROJECT_DIR$" />
+      </element>
+      <element id="library" level="project" name="datanucleus-api-jdo-3.2.6" />
+    </root>
+  </artifact>
+</component>
